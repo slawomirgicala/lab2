@@ -28,6 +28,7 @@ public class CarSystem {
         }catch (IllegalArgumentException ex){
             System.out.println(ex.getMessage());
             System.exit(1);
+            //asdasd
         }
         System.out.println(map.toString());
 
